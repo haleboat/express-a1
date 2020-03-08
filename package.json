@@ -1,0 +1,21 @@
+{
+  "name": "page-info",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^12.16.0"
+  },
+  "description": "Use the pageInfo.js file for this activity 1. For each page, define a GET endpoint handler that returns only the information for that page.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "pug": "^2.0.4"
+  }
+}
